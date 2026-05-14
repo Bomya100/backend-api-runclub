@@ -17,7 +17,7 @@
 
 1. โคลน (Clone) โปรเจกต์นี้ลงมาที่เครื่องคอมพิวเตอร์ของคุณ:
    ```bash
-   git clone [https://github.com/ช](https://github.com/ช)ื่อผู้ใช้ของคุณ/runclub-api.git
+   git clone https://github.com/Bomya100/backend-api-runclub.git
 
 2. สร้างไฟล์ .env ไว้ที่โฟลเดอร์หลักของโปรเจกต์ และกำหนดค่าตัวแปรแวดล้อมให้เรียบร้อย
 
