@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Environment Variables (ห้ามเอาขึ้น Git เด็ดขาด)
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS Files
+.DS_Store
+Thumbs.db

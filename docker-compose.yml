@@ -1,0 +1,9 @@
+services:
+  api:
+    build: .
+    container_name: runclub-api-service
+    ports:
+      - "5000:5000"
+    env_file:
+      - .env
+    # ถ้าในอนาคตอยากเอา MongoDB มาไว้ในนี้ด้วย ก็เพิ่ม service ต่อท้ายได้เลย
